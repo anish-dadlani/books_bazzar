@@ -1,0 +1,1 @@
+<?php echo view('/templates/customers/offers'); ?>
